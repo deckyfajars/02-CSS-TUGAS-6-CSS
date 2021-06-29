@@ -1,0 +1,20 @@
+.satu{
+	border-style: dotted;
+	border-color: red;
+	background-color: #00FFFF;
+	border-width: 8px;
+}
+
+.dua{
+	border-style: solid;
+	border-color: #006400;
+	background-color: #00FFFF;
+	border-width: 3px;
+}
+
+.tiga{
+	border-style: dashed;
+	border-color: blue;
+	background-color: #00FFFF;
+	border-width: 10px;
+}
